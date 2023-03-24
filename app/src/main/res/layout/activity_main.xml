@@ -70,7 +70,7 @@
                 android:layout_marginStart="40dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginEnd="40dp"
-                android:text="Xiaomi Redmi Note 8"
+                android:text="Xiaomi Redmi Note 7"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
@@ -98,7 +98,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/redmiNote"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="40dp"
